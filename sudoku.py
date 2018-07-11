@@ -1,3 +1,4 @@
+# Comments needed
 def done_or_not(board):
 	matrix = list(range(1,10))
 	# rows
